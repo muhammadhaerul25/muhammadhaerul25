@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Muhammad Haerul]!
+### 👋 Hi, I'm [Muhammad Haerul]!
 
 🎓 Computer Science student majoring in Information Systems at Hasanuddin University.
 
