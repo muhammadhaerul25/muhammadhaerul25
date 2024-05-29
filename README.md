@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Muhammad Haerul!
+### Hi!👋 I'm Muhammad Haerul!
 
 I am a computer science student majoring in Information Systems at Hasanuddin University. I possess a diverse set of technical skills, including the ability to design and develop applications, create comprehensive documentation, and effectively present my work in a public. I have a strong foundation in programming, math, and statistics and have been documenting my learning journey in various repositories, including those focused on Artificial Intelligence and Data Science. 
 
