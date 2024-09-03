@@ -1,9 +1,3 @@
 ### Hi!👋 I'm Muhammad Haerul!
 
-I am a computer science student majoring in Information Systems at Hasanuddin University. I possess a diverse set of technical skills, including the ability to design and develop applications, create comprehensive documentation, and effectively present my work in a public. I have a strong foundation in programming, math, and statistics and have been documenting my learning journey in various repositories, including those focused on Artificial Intelligence and Data Science. 
-
-My interests is in the field of artificial intelligence, with a particular focus on machine learning and deep learning. I have completed several projects in these areas and invite you to check my GitHub repositories for more information. These projects are not only showcasing my technical abilities but also it demonstrate my passion for exploring new technologies and solving real-world problems.
-
-With a passion for AI and Data Science, I am constantly seeking to expand my knowledge in these areas. I am determined to apply my programming skills in Python and my knowledge from the certification to develop and implement advanced AI models. I am eager to pursue opportunities that allow me to contribute to the development of cutting-edge solutions in the field of AI and Data Science and continue to develop my skills in this field.
-
-Let's connect and collaborate on exciting projects!
+A fresh graduate in Information Systems with a specialization in Artificial Intelligence and Data Science. I bring 2 years of experience working across 5 different companies, where I applied my expertise in AI and Data Science. I have completed over 10 courses and earned 5 certifications, gaining proficiency in data mining, data analytics, data visualization, data modeling, machine learning, deep learning, computer vision, natural language processing, large language models, generative AI, and prompt engineering. My practical experience includes contributing to more than 20 projects in this field over the past 2 years.
